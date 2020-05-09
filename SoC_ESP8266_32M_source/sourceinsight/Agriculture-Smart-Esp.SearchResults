@@ -1,4 +1,0 @@
----- WIFI_CON_M2M Matches (3 in 3 files) ----
-Gizwits_product.c (e:\workspace\wifi设备\gizwitssocesp8266_32m202004260209421178200401\soc_esp8266_32m_source\app\gizwits):        case WIFI_CON_M2M:
-Gizwits_protocol.c (e:\workspace\wifi设备\gizwitssocesp8266_32m202004260209421178200401\soc_esp8266_32m_source\app\gizwits):                gizwitsProtocol.issuedProcessEvent.event[gizwitsProtocol.issuedProcessEvent.num] = WIFI_CON_M2M;
-Gizwits_protocol.h (e:\workspace\wifi设备\gizwitssocesp8266_32m202004260209421178200401\soc_esp8266_32m_source\app\gizwits):  WIFI_CON_M2M,                                     ///< The WiFi module has a server M2M event
